@@ -1,11 +1,9 @@
 # html_vr_laboratory
 
-Web
+Web + VR + AI
 
-+
+Application
+-Node.js
 
-VR
-
-+
-
-AI
+Framework
+-A-Frame
